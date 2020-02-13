@@ -1,0 +1,357 @@
+<resources>
+    <string name="app_name">Riddles</string>
+    <!--       _________________________PROBLEMS_________________________-->
+    <!-- Only Put extra (data4) will change on the Solution part -->
+    <!-- Numbers and Title are Same-->
+    <!-- Num -->
+    <string-array name="Numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+
+    </string-array>
+
+    <!-- Title -->
+
+    <string-array name="Subject">
+        <item>HARD Riddle</item>
+        <item>EASY RIDDLE</item>
+        <item>STATISTICS</item>
+        <item>WET END</item>
+        <item>BURNING MAN</item>
+        <item>NO APPLAUSE</item>
+        <item>DROP</item>
+        <item>NOT A SNAKE</item>
+        <item>OUCH</item>
+        <item>WELL</item>
+        <item>BUTCHER</item>
+        <item>TASTY</item>
+        <item>FUN GUY</item>
+        <item>WELCOME TO MIAMI</item>
+        <item>LOOK ME UP</item>
+        <item>CIA</item>
+        <item>FINGERS CROSSED</item>
+        <item>YUMMY</item>
+        <item>BANKRUPT</item>
+        <item>THE ARK</item>
+        <item>HEAVY RIDDLE</item>
+        <item>TO MARRY OR NOT TO MARRY</item>
+        <item>HERO</item>
+        <item>JOHN LENNON</item>
+        <item>FUNNY RIDDLE</item>
+        <item>NOT MUCH OF A SPORT</item>
+        <item>LOOK CLOSELY</item>
+        <item>LIGHT AS A FEATHER</item>
+        <item>THINK TWICE</item>
+        <item>JUST IN TIME</item>
+        <item>READ</item>
+        <item>DECAPITATED</item>
+        <item>DOOR</item>
+        <item>OLD QUESTION</item>
+        <item>EASY RIDDLE</item>
+        <item>MEDIUM RIDDLE</item>
+        <item>MONTHS</item>
+        <item>WATER</item>
+        <item>HARD RIDDLE</item>
+        <item>FRONT OF YOU</item>
+        <item>BEARD</item>
+        <item>Talk</item>
+        <item>HARD RIDDLE</item>
+        <item>For Kids</item>
+        <item>Light-Strong</item>
+        <item>Bigger Bigger!!</item>
+        <item>Before!</item>
+        <item>A Race</item>
+        <item>USES</item>
+        <item>HAND</item>
+        <item>NOT INSTAGRAM LOL!!</item>
+        <item>Emm!</item>
+        <item>EASYY</item>
+        <item>MATH RIDDLE</item>
+        <item>MATH</item>
+        <item>FAMILY</item>
+        <item>APPLES</item>
+        <item>WORD</item>
+        <item>MY FAVOURITE</item>
+        <item>TORONTO</item>
+        <item>LETTERS</item>
+        <item>AWESOME RIDDLE</item>
+        <item>WORD</item>
+        <item>HUNGRY</item>
+        <item>The English Alphabet</item>
+        <item>You Can Count on Us</item>
+        <item>Take It Or Leave It</item>
+        <item>Head And Tail</item>
+        <item>IN LOVE</item>
+        <item>Ghosts Dont Like This</item>
+        <item>Look In My Face</item>
+        <item>My Cheese</item>
+        <item>Running Water</item>
+        <item>Number Cycle</item>
+        <item>Five Apples</item>
+        <item>The Knife</item>
+        <item>Bad Vegetables On A Ship</item>
+        <item>Valentine Reindeer</item>
+        <item>Covers Your Body</item>
+        <item>Bee Jive</item>
+        <item>Lonely House</item>
+
+    </string-array>
+
+
+    <!--PROBLEMS-->
+    <string-array name="Problems">
+        <item>1-Who makes it, has no need of it. \nWho buys it, has no use for it.
+                    \nWho uses it can neither see nor feel it.
+                    \nWhat is it?
+
+        </item>
+        <item>2-What can travel around the world while staying in a corner?</item>
+        <item>3-During which month do people sleep the least?</item>
+        <item>4-What is made of water but if you put it into water it will die?</item>
+        <item>5-Im tall when Im young and Im short when Im old. What am I?</item>
+        <item>6-What has hands but can not clap?</item>
+        <item>7-You can drop me from the tallest building and I will be fine, but if you drop me in water I die. What am I?</item>
+        <item>8-What has a head and a tail, but no body?</item>
+        <item>9-What has an eye but can not see?</item>
+        <item>10-What gets wetter and wetter the more it dries?</item>
+        <item>11-Pauls height is six feet, hes an assistant at a butcher s shop, and wears size 9 shoes. What does he weigh?</item>
+        <item>12-There was a green house. Inside the green house there was a white house. Inside the white house there was a red house. Inside the red house there were lots of babies. What is it?</item>
+        <item>13-What kind of room has no doors or windows?</item>
+        <item>14-What kind of tree can you carry in your hand?</item>
+        <item>15-Which word in the dictionary is spelled incorrectly?</item>
+        <item>16-If you have me, you want to share me. If you share me, you havent got me. What am I?</item>
+        <item>17-What gets broken without being held?</item>
+        <item>18-Feed me and I live, yet give me a drink and I die.</item>
+        <item>19-A man is pushing his car along the road when he comes to a hotel. He shouts, "Im bankrupt!" Why?</item>
+        <item>20-How many of each species did Moses take on the ark with him?</item>
+        <item>21-Forward I am heavy, but backward I am not. What am I?</item>
+        <item>22-He has married many women, but has never been married. Who is he?</item>
+        <item>23-Take off my skin - I wont cry, but you will! What am I?</item>
+        <item>24-Imagine you are in a dark room. How do you get out?</item>
+        <item>25-What invention lets you look right through a wall?</item>
+        <item>26-What can you catch but not throw?</item>
+        <item>27-What is at the end of a rainbow?</item>
+        <item>28-What is as light as a feather, but even the worlds strongest man couldnt hold it for more than a minute?</item>
+        <item>29-Which weighs more, a pound of feathers or a pound of bricks?</item>
+        <item>30-What occurs once in every minute, twice in every moment, yet never in a thousand years?</item>
+        <item>31-What is black and white and red all over?</item>
+        <item>32-What has a neck but no head?</item>
+        <item>33-When is a door not a door?</item>
+        <item>34-What goes up but never comes down?</item>
+        <item>35-What has to be broken before you can use it?</item>
+        <item>36-Im tall when I’m young, and Im short when Im old. What am I?</item>
+        <item>37-What month of the year has 28 days?</item>
+        <item>38-What is full of holes but still holds water?</item>
+        <item>39-What question can you never answer yes to?</item>
+        <item>40-What is always in front of you but can’t be seen?</item>
+        <item>41-I shave every day, but my beard stays the same. What am I?</item>
+        <item>42-What can’t talk but will reply when spoken to?</item>
+        <item>43-The more of this there is, the less you see. What is it?</item>
+        <item>44-David’s parents have three sons: Snap, Crackle, and what’s the name of the third son?</item>
+        <item>45-I’m light as a feather, yet the strongest person can’t hold me for five minutes. What am I?</item>
+        <item>46-What gets bigger when more is taken away?</item>
+        <item>47-Where does today come before yesterday?</item>
+        <item>48-If you’re running in a race and you pass the person in second place, what place are you in?</item>
+        <item>49-It belongs to you, but other people use it more than you do. What is it?</item>
+        <item>50-What has a thumb and four fingers, but is not a hand?</item>
+        <item>51-What building has the most stories?</item>
+        <item>52-What tastes better than it smells?</item>
+        <item>53-What has 13 hearts, but no other organs?</item>
+        <item>54-I am an odd number. Take away a letter and I become even. What number am I?</item>
+        <item>55-If two’s company, and three’s a crowd, what are four and five?</item>
+        <item>56-Two fathers and two sons are in a car, yet there are only three people in the car. How?</item>
+        <item>57-If there are three apples and you take away two, how many apples do you have?</item>
+        <item>58-What five-letter word becomes shorter when you add two letters to it?</item>
+        <item>59-What begins with an “e” and only contains one letter?</item>
+        <item>60-What would you find in the middle of Toronto?</item>
+        <item>61-What 4-letter word can be written forward, backward or upside down, and can still be read from left to right?</item>
+        <item>62-What is 3/7 chicken, 2/3 cat and 2/4 goat?</item>
+        <item>63-I am a word of letters three; add two and fewer there will be. What word am I?</item>
+        <item>64-I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?</item>
+        <item>65-How many letters are there in the English alphabet?</item>
+        <item>66-When things go wrong, what can you always count on?</item>
+        <item>67-The more you take, the more you leave behind. What am I?</item>
+        <item>68-What has a head, a tail, is brown, and has no legs?</item>
+        <item>69-A doctor and a bus driver are both in love with the same woman, an attractive girl named Sarah. The bus driver had to go on a long bus trip that would last a week. Before he left, he gave Sarah seven apples. Why?</item>
+        <item>70-What room do ghosts avoid?</item>
+        <item>71-Look in my face, I am somebody; Look in my back, I am nobody.\NWhat am I?</item>
+        <item>72-What do you call cheese that belongs to someone else?</item>
+        <item>73-When will water stop running down hill?</item>
+        <item>74-When can you add two to eleven and get one as the correct answer?</item>
+        <item>75-Five apples are in a basket. How do you divide them among five girls so that each girl gets an apple, but one apple remains in the basket?</item>
+        <item>76-You use a knife to slice my head and weep beside me when I am dead. What am I?</item>
+        <item>77-What is the worst vegetable to have on a ship?</item>
+        <item>78-Which one of Santas reindeer can be seen on Valentines day?</item>
+        <item>79-Im not clothes but I cover your body \nThe more Im used, the thinner I grow.\nWhat am I?</item>
+        <item>80-What did the bee say to the flower?</item>
+        <item>81-I have a little house in which I live all alone. It has no doors or windows, and if I want to go out I must break through the wall. What am I?</item>
+    </string-array>
+    <!--SOLUTIONS-->
+    <string-array name="Solutions">
+        <item>A coffin.</item>
+        <item>A stamp.</item>
+        <item>February (there are fewer nights in February).</item>
+        <item>An ice cube.</item>
+        <item>A candle..</item>
+        <item>A clock..</item>
+        <item>Paper.</item>
+        <item>A coin.</item>
+        <item>A needle.</item>
+        <item>A towel.</item>
+        <item>Meat.</item>
+        <item>Watermelon.</item>
+        <item>A mushroom.</item>
+        <item>A palm.</item>
+        <item>Incorrectly.</item>
+        <item>Secret.</item>
+        <item>A promise.</item>
+        <item>Fire.</item>
+        <item>He was playing Monopoly.</item>
+        <item>None, Moses wasnt on the ark Noah was.</item>
+        <item>Forward I am ton, backwards I am not.</item>
+        <item>A priest.</item>
+        <item>An onion.</item>
+        <item>Stop imagining.</item>
+        <item>A window.</item>
+        <item>A cold.</item>
+        <item>The letter W.</item>
+        <item>His breath.</item>
+        <item>Neither, they both weigh one pound.</item>
+        <item>The letter m.</item>
+        <item>A newspaper.</item>
+        <item>A bottle.</item>
+        <item>When its ajar.</item>
+        <item>Age.</item>
+        <item>An egg</item>
+        <item>A candle</item>
+        <item>All of them</item>
+        <item>A sponge</item>
+        <item>Are you asleep yet?</item>
+        <item>The future</item>
+        <item>A barber</item>
+        <item>An echo</item>
+        <item>Darkness</item>
+        <item>David</item>
+        <item>Your breath</item>
+        <item>A hole</item>
+        <item>The dictionary</item>
+        <item>Second place</item>
+        <item>Your name</item>
+        <item>A glove</item>
+        <item>The library</item>
+        <item>Your tongue</item>
+        <item>A deck of cards</item>
+        <item>Seven</item>
+        <item>Nine</item>
+        <item>They are a grandfather, father and son.</item>
+        <item>You have two apples.</item>
+        <item>Short</item>
+        <item>An envelope</item>
+        <item>The letter “o”</item>
+        <item>NOON</item>
+        <item>Chicago</item>
+        <item>Few</item>
+        <item>Fire</item>
+        <item>18: 3 in ‘the’, 7 in ‘English,’ and 8 in ‘alphabet.’</item>
+        <item>Your fingers.</item>
+        <item>Footsteps.</item>
+        <item>A Penny.</item>
+        <item>An apple a day keeps the doctor away!</item>
+        <item>The living room.</item>
+        <item>I am a mirror.</item>
+        <item>Nacho cheese!</item>
+        <item>When it reaches the bottom.</item>
+        <item>When you add two hours to eleven oclock, you get one oclock.</item>
+        <item>Give the fifth girl her apple in the basket.</item>
+        <item>An ONion</item>
+        <item>A leek(leak).</item>
+        <item>Cupid.</item>
+        <item>Bar of Soap</item>
+        <item>Hello, honey!</item>
+        <item>A chick in an egg.</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#777777"
+    tools:context=".whatt">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="Can solving riddles improve brain function?"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="396dp"
+        android:layout_height="472dp"
+        android:text="We can play with our brain in a smart way with the help of riddles. When creating or interpreting riddles our brain exercise mental processes such as thinking, imagining and reciting.
+
+While solving jigsaw puzzle our brain produces dopamine that is essential for learning. Riddles can trigger our brain to a number of neural connections with the intention to find solution for the question thrown on us.
+
+Riddle’s first task is to make us “THINK”. As demonstrated by man, thinking is the top mental activity that brings information together and end up in a meaningful solution. So, it is obvious that solving riddles can improve brain function.
+
+Also, Riddles develop interpersonal skills in kid by creating a chance to entertain one another in their friend’s circle."
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="19sp"
+        android:textStyle="italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="282dp"
+        android:layout_height="144dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:srcCompat="@drawable/br" />
+</androidx.constraintlayout.widget.ConstraintLayout>
